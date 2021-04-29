@@ -1,0 +1,1 @@
+[Comparison of my results with published ones from NED]{https://github.com/vvkrddy/cepheids/blob/master/README.md}
