@@ -1,1 +1,1 @@
-[Comparison of my results with published ones from NED]{https://github.com/vvkrddy/cepheids/blob/master/README.md}
+[Comparison of my results with the published ones from NED](https://github.com/vvkrddy/cepheid-anu/tree/master/plots/result.png)
